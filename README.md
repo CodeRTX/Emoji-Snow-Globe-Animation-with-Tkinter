@@ -1,1 +1,3 @@
 # Emoji-Snow-Globe-Animation-with-Tkinter
+
+This Python program creates an interactive snow globe animation using the Tkinter library. It features various holiday-themed emojis, including <b>Santa</b>, <b>Mrs. Claus</b>, a <b>reindeer</b>, and <b>snowflakes</b>, all moving dynamically within a canvas. The emojis are loaded as images and resized using the PIL library. The `move_emoji` function randomly adjusts the positions of the emojis, creating a lively and festive scene. The program initializes the canvas, places the emojis, and sets them in motion, with snowflakes falling continuously to simulate a snow globe effect. The animation is refreshed every `50 milliseconds`, ensuring smooth and continuous movement.
